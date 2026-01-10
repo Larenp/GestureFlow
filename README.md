@@ -4,7 +4,7 @@ A single-file 3D web application where particles react to hand gestures in real-
 
 ## Features
 - **Hand Tracking**: Uses MediaPipe to detect hand tension (open/closed fist).
-- **Interactive Particles**: 15,000 particles respond to your movements.
+- **Interactive Particlez**: 15,000 particles respond to your movements.
 - **Shape Templates**: Transform particles into:
   - Sphere
   - Heart
